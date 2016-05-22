@@ -1,0 +1,4 @@
+F 
+You can see how fast you're moving in the bottom of the screen as a percentage of the speed of light.
+F
+The gamma factor (pronounced Gamma) will tell you how slowly time is running for you relative to anyone watching outside the lab.  It only depends on how fast you're going.

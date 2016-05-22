@@ -1,0 +1,45 @@
+Trig1
+J
+Where am I?
+Trig1
+F
+Good morning Jenny, and welcome to your interview.
+Trig1
+J
+Interview? What are you talking about?
+Trig1
+F
+You've been selected as one of the top candidates for a postdoctoral research position at Dr Friz's Institute For Applied Relativity. 
+Trig1
+J
+You mean like GPS?"
+Trig1
+F
+Ha, ha, ha, Oh stupid child. In my facility the speed of light in the horizontal directions is slowed to a crawl.  We see first hand the distortions caused by Special Relativity!
+Trig1
+F
+In order to determine whether or not you have the right stuff to work with me on these exciting projects, I've set up a few simple trials to test your understanding of special relativity.
+Trig1
+J
+What if don't have the 'the right stuff''?
+Trig1
+F
+Then we have a very talented janitorial staff  to clean you off the lab floor.
+Trig1
+J
+So you're saying I either get the job or die trying?
+Trig1
+F
+Of course not, do you think I'm some kind of monster?  You can leave right now!  
+Trig1
+F
+But be honest, can you really afford to turn down a job in this economy?"
+Trig1
+J
+... Do you cover dental?
+Trig1
+F
+Yes
+Trig1
+N
+Choose two doors:  Go home, start the interview.

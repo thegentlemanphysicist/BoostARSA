@@ -1,0 +1,24 @@
+Trig1
+F
+Hitting space lets you interact with objects in the game.
+Trig1
+F
+Your jet pack protects you from the effects of large acceleration.  
+Trig1
+F
+Holding Left Right (A or D) will accelerate you in that direction.  
+Trig1
+F
+Careful, your boost engine takes time to recharge. Half a second to be exact, but as we'll see time has a tendency to fluctuate in here.
+Trig2
+F
+You can see how fast you're moving in the bottom of the screen as a percentage of the speed of light.
+Trig2
+F
+The gamma factor (pronounced Gamma) will tell you how slowly time is running for you relative to anyone watching outside the lab.  It only depends on how fast you're going.
+Trig3
+F
+Need to jump?  Up (W) will do the trick.  Hitting it twice gives you a double jump.
+Trig4
+F
+Sometimes you need to stop quickly. Hitting the down (S) key deploys air brakes, bringing you to a stop in the lab.

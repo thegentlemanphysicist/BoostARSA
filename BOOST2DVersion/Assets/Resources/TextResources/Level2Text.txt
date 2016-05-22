@@ -1,0 +1,12 @@
+Trig1
+F
+Jump on trigger plates to open doors.
+Trig1
+F
+Keep in mind there will be a delay in the door opening. Information can't travel faster than light so it takes time for the door to know it's supposed to open. 
+Trig2
+F
+'SPACE' lets the Jenny pick up certain objects like bombs and crates.  
+Trig3
+F
+Bombs are useful tools for clearing out unwanted crates and enemies.

@@ -1,0 +1,297 @@
+Base path: C:/Program Files/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-1-472
+Cmd: getPlatforms
+Cmd: preprocess
+  insize=929 outsize=171 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=1055 outsize=153 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=1055 outsize=105 kw= ok=1
+Cmd: preprocess
+  insize=1322 outsize=171 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=1448 outsize=153 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=1448 outsize=322 kw= ok=1
+Cmd: preprocess
+  insize=6866 outsize=173 ok=1
+Cmd: compileSnippet
+  error: 2 plat 1 at (146): function "frag" has no return statement
+  error: 2 plat 1 at (153): syntax error, unexpected reserved word "if", expecting ',' or ';' at token "if" type name expected at token "if" cast not allowed
+  error: 2 plat 1 at (154): syntax error, unexpected '{', expecting ',' or ';' at token "{" type name expected at token "{"
+  error: 2 plat 1 at (155): syntax error, unexpected '.' at token "." type name expected at token "."
+  error: 1 plat 1 at (155): unrecognized profile specifier "i"
+  error: 2 plat 1 at (158): half4: function type parameters not allowed; function type not allowed for parameter "half4"
+  error: 2 plat 1 at (161): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (162): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (163): syntax error, unexpected ',' at token "," type name expected at token "," syntax error, unexpected ',' at token "," type name expected at token ","
+  error: 1 plat 1 at (163): unrecognized profile specifier "gParam" unrecognized profile specifier "UVParam"
+  error: 2 plat 1 at (164): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";" syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";" syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (165): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";" syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";" syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (166): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";" syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";" syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (167): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";" syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";" syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (168): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";" syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";" syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (170): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (171): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (172): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (174): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (175): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (182): function type not allowed for parameter "float4" syntax error, unexpected '.' at token "." type name expected at token "."
+  error: 1 plat 1 at (182): unrecognized profile specifier "data"
+  api=1 type=0 insize=6992 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=6970 outsize=173 ok=1
+Cmd: compileSnippet
+  error: 2 plat 1 at (146): function "frag" has no return statement
+  error: 2 plat 1 at (153): syntax error, unexpected reserved word "if", expecting ',' or ';' at token "if" type name expected at token "if" cast not allowed
+  error: 2 plat 1 at (154): syntax error, unexpected '{', expecting ',' or ';' at token "{" type name expected at token "{"
+  error: 2 plat 1 at (161): syntax error, unexpected '=' at token "=" type name expected at token "=" syntax error, unexpected ')' at token ")" type name expected at token ")"
+  error: 1 plat 1 at (161): unrecognized profile specifier "weights" unrecognized profile specifier "float3" unrecognized profile specifier "xyz"
+  error: 2 plat 1 at (162): syntax error, unexpected ',' at token "," type name expected at token "," syntax error, unexpected ',' at token "," type name expected at token ","
+  error: 1 plat 1 at (162): unrecognized profile specifier "gParam" unrecognized profile specifier "UVParam"
+  error: 2 plat 1 at (163): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";" syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";" syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (164): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";" syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";" syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (165): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";" syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";" syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (166): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";" syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";" syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (167): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";" syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";" syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (169): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (170): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (171): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (173): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (174): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (181): float4: function type parameters not allowed; function type not allowed for parameter "float4" syntax error, unexpected '.' at token "." type name expected at token "."
+  error: 1 plat 1 at (181): unrecognized profile specifier "data"
+  error: 2 plat 1 at (182): syntax error, unexpected reserved word "else" at token "else" type name expected at token "else"
+  api=1 type=0 insize=7096 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=6967 outsize=173 ok=1
+Cmd: compileSnippet
+  error: 2 plat 1 at (153): syntax error, unexpected reserved word "if", expecting ',' or ';' at token "if" type name expected at token "if" cast not allowed
+  error: 2 plat 1 at (154): syntax error, unexpected '{', expecting ',' or ';' at token "{" type name expected at token "{"
+  error: 2 plat 1 at (161): syntax error, unexpected '=' at token "=" type name expected at token "=" syntax error, unexpected ')' at token ")" type name expected at token ")"
+  error: 1 plat 1 at (161): unrecognized profile specifier "weights" unrecognized profile specifier "float3" unrecognized profile specifier "xyz"
+  error: 2 plat 1 at (162): syntax error, unexpected ',' at token "," type name expected at token "," syntax error, unexpected ',' at token "," type name expected at token ","
+  error: 1 plat 1 at (162): unrecognized profile specifier "gParam" unrecognized profile specifier "UVParam"
+  error: 2 plat 1 at (163): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";" syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";" syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (164): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";" syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";" syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (165): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";" syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";" syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (166): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";" syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";" syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (167): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";" syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";" syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (169): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (170): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (171): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (173): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (174): syntax error, unexpected ';', expecting ',' or ')' at token ";" type name expected at token ";"
+  error: 2 plat 1 at (181): float4: function type parameters not allowed; function type not allowed for parameter "float4"
+  error: 2 plat 1 at (184): function type not allowed for parameter "half4"
+  api=1 type=0 insize=7093 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=6969 outsize=173 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=7095 outsize=153 kw= ok=1
+Cmd: compileSnippet
+  error: 2 plat 1 at (38): undefined variable "Mathf" unable to find compatible overloaded function "sqrt(error)"
+  error: 2 plat 1 at (76): undefined variable "xla" undefined variable "xlb" undefined variable "xlb" undefined variable "xlc" undefined variable "xlc"
+  error: 2 plat 1 at (77): undefined variable "xlc" undefined variable "xlc" unable to find compatible overloaded function "sqrt(error)"
+  error: 2 plat 1 at (80): undefined variable "xha" undefined variable "xhb" undefined variable "xhb" undefined variable "xhc" undefined variable "xhc"
+  error: 2 plat 1 at (81): undefined variable "xhc" undefined variable "xhc" unable to find compatible overloaded function "sqrt(error)"
+  error: 2 plat 1 at (88): undefined variable "ya" undefined variable "yb" undefined variable "yb" undefined variable "yc" undefined variable "yc"
+  error: 2 plat 1 at (89): undefined variable "yc" undefined variable "yc" unable to find compatible overloaded function "sqrt(error)"
+  error: 2 plat 1 at (97): undefined variable "za" undefined variable "zb" undefined variable "zb" undefined variable "zc" undefined variable "zc"
+  error: 2 plat 1 at (98): undefined variable "zc" undefined variable "zc" unable to find compatible overloaded function "sqrt(error)"
+  error: 2 plat 1 at (166): undefined variable "UV_START" undefined variable "UV_RANGE" undefined variable "UV"
+  error: 2 plat 1 at (167): undefined variable "IR_START" undefined variable "IR_RANGE" undefined variable "IR"
+  api=1 type=1 insize=7095 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=6962 outsize=172 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=7088 outsize=153 kw= ok=1
+Cmd: compileSnippet
+  error: 2 plat 1 at (76): undefined variable "xla" undefined variable "xlb" undefined variable "xlb" undefined variable "xlc" undefined variable "xlc"
+  error: 2 plat 1 at (77): undefined variable "xlc" undefined variable "xlc" unable to find compatible overloaded function "sqrt(error)"
+  error: 2 plat 1 at (80): undefined variable "xha" undefined variable "xhb" undefined variable "xhb" undefined variable "xhc" undefined variable "xhc"
+  error: 2 plat 1 at (81): undefined variable "xhc" undefined variable "xhc" unable to find compatible overloaded function "sqrt(error)"
+  error: 2 plat 1 at (88): undefined variable "ya" undefined variable "yb" undefined variable "yb" undefined variable "yc" undefined variable "yc"
+  error: 2 plat 1 at (89): undefined variable "yc" undefined variable "yc" unable to find compatible overloaded function "sqrt(error)"
+  error: 2 plat 1 at (97): undefined variable "za" undefined variable "zb" undefined variable "zb" undefined variable "zc" undefined variable "zc"
+  error: 2 plat 1 at (98): undefined variable "zc" undefined variable "zc" unable to find compatible overloaded function "sqrt(error)"
+  error: 2 plat 1 at (166): undefined variable "UV_START" undefined variable "UV_RANGE" undefined variable "UV"
+  error: 2 plat 1 at (167): undefined variable "IR_START" undefined variable "IR_RANGE" undefined variable "IR"
+  api=1 type=1 insize=7088 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=8052 outsize=173 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=8178 outsize=153 kw= ok=1
+Cmd: compileSnippet
+  error: 2 plat 1 at (204): undefined variable "UV"
+  error: 2 plat 1 at (205): undefined variable "IR"
+  api=1 type=1 insize=8178 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=8547 outsize=666 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=8180 outsize=153 kw= ok=1
+Cmd: compileSnippet
+  error: 2 plat 1 at (216): undefined variable "UV"
+  error: 2 plat 1 at (217): undefined variable "IR"
+  api=1 type=1 insize=8180 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=8600 outsize=721 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=8180 outsize=153 kw= ok=1
+Cmd: compileSnippet
+  error: 2 plat 1 at (221): undefined variable "UV"
+  error: 2 plat 1 at (222): undefined variable "IR"
+  api=1 type=1 insize=8180 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=8596 outsize=717 ok=1
+Cmd: compileSnippet
+  error: 2 plat 1 at (221): undefined variable "UV"
+  error: 2 plat 1 at (222): undefined variable "IR"
+  api=1 type=1 insize=8180 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=8670 outsize=716 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=8254 outsize=153 kw= ok=1
+Cmd: compileSnippet
+  error: 2 plat 1 at (224): undefined variable "UV"
+  error: 2 plat 1 at (225): undefined variable "IR"
+  api=1 type=1 insize=8254 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=8382 outsize=224 ok=1
+Cmd: compileSnippet
+  error: 2 plat 1 at (200): expression left of ."uv1" is not a struct or array
+  error: 2 plat 1 at (201): expression left of ."uv1" is not a struct or array
+  error: 2 plat 1 at (202): expression left of ."uv1" is not a struct or array
+  api=1 type=0 insize=8458 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=8517 outsize=224 ok=1
+Cmd: compileSnippet
+  error: 2 plat 1 at (69): expression left of ."uv1" is not a struct or array
+  error: 2 plat 1 at (200): expression left of ."uv1" is not a struct or array
+  error: 2 plat 1 at (201): expression left of ."uv1" is not a struct or array
+  error: 2 plat 1 at (202): expression left of ."uv1" is not a struct or array
+  api=1 type=0 insize=8593 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=8680 outsize=225 ok=1
+Cmd: compileSnippet
+  error: 2 plat 1 at (70): undefined variable "v"
+  api=1 type=0 insize=8756 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=8680 outsize=224 ok=1
+Cmd: compileSnippet
+  error: 2 plat 1 at (70): expression left of ."texcoord" is not a struct or array
+  api=1 type=0 insize=8756 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=8697 outsize=225 ok=1
+Cmd: compileSnippet
+  error: 2 plat 1 at (72): expression left of ."texcoord0" is not a struct or array
+  api=1 type=0 insize=8773 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=8844 outsize=225 ok=1
+Cmd: compileSnippet
+  error: 2 plat 1 at (72): expression left of ."texcoord" is not a struct or array
+  api=1 type=0 insize=8920 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=8845 outsize=225 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=8921 outsize=184 kw= ok=1
+Cmd: compileSnippet
+  error: 1 plat 1 at (72): implicit cast from "float4" to "float2"
+  error: 2 plat 1 at (203): undefined variable "_MainTex" unable to find compatible overloaded function "tex2D(error, float2)"
+  error: 2 plat 1 at (204): undefined variable "_UVTex" unable to find compatible overloaded function "tex2D(error, float2)"
+  error: 2 plat 1 at (205): undefined variable "_IRTex" unable to find compatible overloaded function "tex2D(error, float2)"
+  api=1 type=1 insize=8921 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=9075 outsize=454 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=8921 outsize=184 kw= ok=1
+Cmd: compileSnippet
+  error: 1 plat 1 at (79): implicit cast from "float4" to "float2"
+  error: 2 plat 1 at (210): undefined variable "_MainTex" unable to find compatible overloaded function "tex2D(error, float2)"
+  error: 2 plat 1 at (211): undefined variable "_UVTex" unable to find compatible overloaded function "tex2D(error, float2)"
+  error: 2 plat 1 at (212): undefined variable "_IRTex" unable to find compatible overloaded function "tex2D(error, float2)"
+  api=1 type=1 insize=8921 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=9139 outsize=455 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=8985 outsize=184 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=8985 outsize=6949 kw= ok=1
+Cmd: preprocess
+  insize=9039 outsize=455 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=8885 outsize=184 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=8885 outsize=6949 kw= ok=1
+Cmd: preprocess
+  insize=9045 outsize=455 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=8891 outsize=184 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=8891 outsize=6970 kw= ok=1
+Cmd: preprocess
+  insize=9044 outsize=455 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=8890 outsize=184 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=8890 outsize=6970 kw= ok=1
+Cmd: preprocess
+  insize=9121 outsize=503 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=8919 outsize=184 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=8919 outsize=6956 kw= ok=1
+Cmd: preprocess
+  insize=9130 outsize=503 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=8928 outsize=184 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=8928 outsize=7069 kw= ok=1
+Cmd: preprocess
+  insize=9169 outsize=542 ok=1
+Cmd: preprocess
+  insize=9169 outsize=542 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=8928 outsize=184 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=8928 outsize=7072 kw= ok=1
+Cmd: preprocess
+  insize=9169 outsize=541 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=8928 outsize=184 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=8928 outsize=7072 kw= ok=1
+Cmd: preprocess
+  insize=9194 outsize=566 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=8928 outsize=184 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=8928 outsize=7072 kw= ok=1
+Cmd: preprocess
+  insize=9270 outsize=567 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=9004 outsize=184 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=9004 outsize=7103 kw= ok=1
+Cmd: preprocess
+  insize=9383 outsize=680 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=9004 outsize=184 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=9004 outsize=7103 kw= ok=1
+Cmd: preprocess
+  insize=9383 outsize=680 ok=1
+Cmd: preprocess
+  insize=9437 outsize=680 ok=1
+Cmd: compileSnippet
+  error: 2 plat 1 at (67): syntax error, unexpected ';' at token ";" type name expected at token ";"
+  error: 1 plat 1 at (67): unrecognized profile specifier "_baseColor" unrecognized profile specifier "color"
+  error: 2 plat 1 at (69): "vertexInput" is not a function
+  error: 2 plat 1 at (1579): *** exception during compilation ***
+  api=1 type=0 insize=9058 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=9438 outsize=680 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=9059 outsize=184 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=9059 outsize=7919 kw= ok=1

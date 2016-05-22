@@ -1,0 +1,6 @@
+F
+Your jet pack protects you from the effects of large acceleration.  
+F
+Holding Left Right (A or D) will accelerate you in that direction.  
+F
+Careful, your boost engine takes time to recharge. Half a second to be exact, but as we'll see time has a tendency to fluctuate in here.
